@@ -1,1 +1,1 @@
-# hello-world - Hurray
+# hello-world - hello
